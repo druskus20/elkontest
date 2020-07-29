@@ -93,4 +93,19 @@
 </p>
 
 
+<h3 align="center">ElKawaiifuck</h3>
+<p align="center">
+    <img width="400" src="kontest/ElKawaiifuck.png">
+    <br>
+    <a>By: halo</a>
+</p>
+
+
+<h3 align="center">ElFunctwar</h3>
+<p align="center">
+    <img width="400" src="kontest/ElFunctwar.png">
+    <br>
+    <a>By: Druskus</a>
+</p>
+
 
