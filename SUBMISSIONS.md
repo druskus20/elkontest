@@ -19,7 +19,7 @@
 <p align="center">
     <img width="400" src="kontest/sadelko.png">
     <br>
-    <a>By: gk</a>
+    <a>By: l1nus</a>
 </p>
 
 <h3 align="center">sadelkowithhat</h3>
