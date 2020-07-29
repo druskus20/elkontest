@@ -1,6 +1,11 @@
 <h1 align="center">ElKontest</h1>
 <p align="center" >Welcome to the 2020 International ElKontest
-(which is mostly centered around Germany)</p>
+(which is mostly centered around Germany
+<br>
+<a href="/kontest">Check the pictures already submitted</a>
+</p>
+
+
 <p align="center">
   <img width="400" src="template.png">
 </p>
