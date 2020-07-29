@@ -6,7 +6,7 @@
     <img width="400" src="template.png">
 </p>
 
-<h2 align="center">Pre-Kontest</h2>
+<h2 align="center">Kontest</h2>
 
 <h3 align="center">ElCoward</h3>
 <p align="center">
