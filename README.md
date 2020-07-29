@@ -22,7 +22,7 @@ Our beloved and most recent mod at the Unixporn Community Discord Server
 
 
 #### When would the kontest take place?
-
+The kontest will take place from **29/07/2020 16:00 UTC** until **2/08/2020 00:00 UTC**.
 
 #### Can I take part in it?
 There is no rule about who can take part in the kontest although there isn't really a point if you aren't part of the Discord Community.
