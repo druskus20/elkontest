@@ -50,3 +50,9 @@
     <a>By: PotatoLord</a>
 </p>
 
+<h3 align="center">UnnamedKowar</h3>
+<p align="center">
+    <img width="400" src="kontest/UnnamedKowar.png">
+    <br>
+    <a>By: a tiny cactus</a>
+</p>
