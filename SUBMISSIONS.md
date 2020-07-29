@@ -82,7 +82,7 @@
 <p align="center">
     <img width="400" src="kontest/ELongNeck.png">
     <br>
-    <a>By: l1nus</a>
+    <a>By: ElKowar</a>
 </p>
 
 
