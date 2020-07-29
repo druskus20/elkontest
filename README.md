@@ -12,6 +12,8 @@ This celebration has the purpose of finding the best version of ElKowar's profil
 
 #### Who is even ElKowar?
 Our beloved and most recent mod at the Unixporn Community Discord Server
+[ElKowar](https://github.com/ElKowar "ElKowar")
+
 
 #### When would the kontest take place?
 
@@ -38,4 +40,3 @@ Depending on the winner it might be considered making an emote for the server.
 1. Submissions must be based on the original ElKowar profile picture
 2. NSFW submissions are not allowed. 
 3. Mods are allowed to grade submissions based on whatever criteria they find suitable.
-
