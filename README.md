@@ -2,7 +2,7 @@
 <p align="center" >Welcome to the 2020 International ElKontest
 (which is mostly centered around Germany
 <br>
-<a href="/kontest">Check the pictures already submitted</a>
+<a href="/SUBMISSIONS.md">Check the pictures already submitted</a>
 </p>
 
 
