@@ -56,3 +56,10 @@
     <br>
     <a>By: a tiny cactus</a>
 </p>
+
+<h3 align="center">StallKowar</h3>
+<p align="center">
+    <img width="400" src="kontest/StallKowar.png">
+    <br>
+    <a>By: Cha0t1c</a>
+</p>
