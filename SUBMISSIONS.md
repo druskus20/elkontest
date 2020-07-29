@@ -6,7 +6,7 @@
 <p align="center">
     <img width="400" src="template.png">
 </p>
-
+<br>
 <h3 align="center">ElCoward</h3>
 <p align="center">
     <img width="400" src="pre-kontest/ElCoward.png">
