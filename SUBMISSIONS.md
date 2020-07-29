@@ -85,5 +85,12 @@
     <a>By: ElKowar</a>
 </p>
 
+<h3 align="center">ElGrubwar</h3>
+<p align="center">
+    <img width="400" src="kontest/ElGrubwar.png">
+    <br>
+    <a>By: Druskus</a>
+</p>
+
 
 
