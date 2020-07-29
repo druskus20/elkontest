@@ -63,3 +63,17 @@
     <br>
     <a>By: Cha0t1c</a>
 </p>
+
+<h3 align="center">ElDogewar</h3>
+<p align="center">
+    <img width="400" src="kontest/ElDogewar.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">ElLinuswar</h3>
+<p align="center">
+    <img width="400" src="kontest/ElLinuswar.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
