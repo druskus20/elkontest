@@ -30,9 +30,6 @@ There is no rule about who can take part in the kontest although there isn't rea
 #### How do I take part in it?
 You have to create a new issue with your submission attached. 
 
-#### How many pictures can I submit?
-Each person can submit up to 3 pictures. 
-
 #### Who will be the jury?
 The jury will be composed by a set of mods from the discord server, including ELKowar himself.
 
