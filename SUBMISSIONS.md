@@ -77,3 +77,13 @@
     <br>
     <a>By: l1nus</a>
 </p>
+
+<h3 align="center">ELongNeck</h3>
+<p align="center">
+    <img width="400" src="kontest/ELongNeck.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+
+
