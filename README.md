@@ -39,8 +39,6 @@ The jury will be composed by a set of mods from the discord server, including EL
 #### What if I win?
 ElKowar will wear this picture on his discord profile for a while.
 
-Depending on the winner it might be considered making an emote for the server.
-
 
 ## Rules and recommendations
 1. Submissions must be based on the original ElKowar profile picture
