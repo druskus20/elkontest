@@ -117,3 +117,19 @@
 </p>
 
 
+<h3 align="center">elkopepe</h3>
+<p align="center">
+    <img width="400" src="kontest/elkopepe.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+
+<h3 align="center">elkoboomer</h3>
+<p align="center">
+    <img width="400" src="kontest/elkoboomer.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+
