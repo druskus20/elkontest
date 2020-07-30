@@ -140,3 +140,10 @@
     <a>By: Druskus</a>
 </p>
 
+<h3 align="center">elkobutt</h3>
+<p align="center">
+    <img width="400" src="kontest/elkobutt.png">
+    <br>
+    <a>By: Phisch</a>
+</p>
+
