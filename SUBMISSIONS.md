@@ -29,9 +29,9 @@
     <a>By: gk</a>
 </p>
 
-<h3 align="center">ElKekvar</h3>
+<h3 align="center">ElKekwar</h3>
 <p align="center">
-    <img width="400" src="kontest/ElKekvar.png">
+    <img width="400" src="kontest/ElKekwar.png">
     <br>
     <a>By: ElKowar</a>
 </p>
