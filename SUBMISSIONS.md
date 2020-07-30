@@ -101,9 +101,9 @@
 </p>
 
 
-<h3 align="center">ElFunctwar</h3>
+<h3 align="center">ElMonad</h3>
 <p align="center">
-    <img width="400" src="kontest/ElFunctwar.png">
+    <img width="400" src="kontest/ElMonad.png">
     <br>
     <a>By: Druskus</a>
 </p>
