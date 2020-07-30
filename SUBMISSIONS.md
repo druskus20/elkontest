@@ -133,3 +133,10 @@
 </p>
 
 
+<h3 align="center">elkophisch</h3>
+<p align="center">
+    <img width="400" src="kontest/elkophisch.png">
+    <br>
+    <a>By: Druskus</a>
+</p>
+
