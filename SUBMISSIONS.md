@@ -153,3 +153,11 @@
     <br>
     <a>By: Druskus</a>
 </p>
+
+<h3 align="center">elkochad</h3>
+<p align="center">
+    <img width="400" src="kontest/elkochad.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
