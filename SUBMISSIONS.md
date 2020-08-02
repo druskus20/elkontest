@@ -153,3 +153,10 @@
     <br>
     <a>By: Druskus</a>
 </p>
+<h3 align="center">elblurwar</h3>
+<p align="center">
+    <img width="400" src="kontest/elblurwar.png">
+    <br>
+    <a>By: /dev/random</a>
+</p>
+
