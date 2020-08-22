@@ -161,3 +161,10 @@
     <a>By: l1nus</a>
 </p>
 
+<h3 align="center">happyelko</h3>
+<p align="center">
+    <img width="400" src="kontest/happyelko.png">
+    <br>
+    <a>By: gk</a>
+</p>
+
