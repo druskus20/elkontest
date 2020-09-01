@@ -168,3 +168,17 @@
     <a>By: gk</a>
 </p>
 
+
+<h3 align="center">elkorra</h3>
+<p align="center">
+    <img width="400" src="kontest/elkorra.png">
+    <br>
+    <a>By: gk</a>
+</p>
+
+<h3 align="center">elmuchacho</h3>
+<p align="center">
+    <img width="400" src="kontest/elmuchacho.png">
+    <br>
+    <a>By: gk</a>
+</p>
