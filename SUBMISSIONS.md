@@ -14,7 +14,6 @@
     <br>
     <a>By: Druskus</a>
 </p>
-
 <h3 align="center">sadelko</h3>
 <p align="center">
     <img width="400" src="kontest/sadelko.png">
@@ -181,4 +180,12 @@
     <img width="400" src="kontest/elmuchacho.png">
     <br>
     <a>By: gk</a>
+</p>
+
+
+<h3 align="center">sadelko</h3>
+<p align="center">
+    <img width="400" src="kontest/akkuwar.png">
+    <br>
+    <a>By: Lightosk</a>
 </p>
