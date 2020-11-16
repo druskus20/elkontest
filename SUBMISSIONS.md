@@ -6,6 +6,15 @@
     <img width="400" src="template.png">
 </p>
 
+<h2 align="center">Honorable Mentions</h2>
+
+<h3 align="center">The Elk o' War</h3>
+<p align="center">
+    <img width="400" src="kontest/elk-o-war.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
 <h2 align="center">Kontest</h2>
 
 <h3 align="center">ElCoward</h3>
@@ -182,10 +191,30 @@
     <a>By: gk</a>
 </p>
 
-
-<h3 align="center">sadelko</h3>
+<h3 align="center">akkuwar</h3>
 <p align="center">
     <img width="400" src="kontest/akkuwar.png">
     <br>
     <a>By: Lightosk</a>
+</p>
+
+<h3 align="center">shrekowar</h3>
+<p align="center">
+    <img width="400" src="kontest/shrekowar.png">
+    <br>
+    <a>By: vibing frog (4126)</a>
+</p>
+
+<h3 align="center">elkoholic</h3>
+<p align="center">
+    <img width="400" src="kontest/elkoholic.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">uwuwar</h3>
+<p align="center">
+    <img width="400" src="kontest/uwuwar.png">
+    <br>
+    <a>By: snakedye</a>
 </p>
