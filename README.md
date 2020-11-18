@@ -7,7 +7,7 @@
 
 
 
-<h2 align="center">WINNER!</h1>
+<h2 align="center">WINNER!: elkoholic</h1>
 <p align="center">
     <img width="400" src="kontest/elkoholic.png">
     <br>
