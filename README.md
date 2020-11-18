@@ -6,10 +6,18 @@
 </p>
 
 
+
+<h2 align="center">WINNER!</h1>
+<p align="center">
+    <img width="400" src="kontest/elkoholic.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h2 align="center">Template!</h1>
 <p align="center">
   <img width="400" src="template.png">
 </p>
-
 
 ## FAQ
 #### What is all of this about?
