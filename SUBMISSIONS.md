@@ -254,9 +254,9 @@
     <a>By: l1nus</a>
 </p>
 
-<h3 align="center">eEkursion</h3>
+<h3 align="center">rElkursion</h3>
 <p align="center">
-    <img width="400" src="kontest/eEkursion.png">
+    <img width="400" src="kontest/rElkursion.png">
     <br>
     <a>By: l1nus</a>
 </p>
