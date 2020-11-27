@@ -218,3 +218,45 @@
     <br>
     <a>By: snakedye</a>
 </p>
+
+<h3 align="center">ElKeyboard</h3>
+<p align="center">
+    <img width="400" src="kontest/ElKeyboard.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">ElKoberg</h3>
+<p align="center">
+    <img width="400" src="kontest/ElKoberg.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">ElKobrain</h3>
+<p align="center">
+    <img width="400" src="kontest/ElKobrain.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">ElKowarn</h3>
+<p align="center">
+    <img width="400" src="kontest/ElKowarn.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">GKowar</h3>
+<p align="center">
+    <img width="400" src="kontest/GKowar.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">eEkursion</h3>
+<p align="center">
+    <img width="400" src="kontest/eEkursion.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
