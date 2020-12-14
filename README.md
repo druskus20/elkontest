@@ -23,26 +23,12 @@
 #### What is all of this about?
 This celebration has the purpose of finding the best version of ElKowar's profile picture. 
 
-#### Who is even ElKowar?
-Our beloved and most recent mod at the Unixporn Community Discord Server
+#### Who even is ElKowar?
+Hes a german guy at the Unixporn Community Discord Server
 
 [ElKowar](https://github.com/ElKowar "ElKowar")
 
 
-#### When would the kontest take place?
-The kontest will take place from **29/07/2020 16:00 UTC** until **2/08/2020 00:00 UTC**.
-
-#### Can I take part in it?
-There is no rule about who can take part in the kontest although there isn't really a point if you aren't part of the Discord Community.
-
-#### How do I take part in it?
-You have to create a new issue with your submission attached. 
-
-#### Who will be the jury?
-The jury will be composed by a set of mods from the discord server, including ELKowar himself.
-
-#### What if I win?
-ElKowar will wear this picture on his discord profile for a while.
 
 
 ## Rules and recommendations
