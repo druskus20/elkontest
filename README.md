@@ -21,7 +21,7 @@
 
 ## FAQ
 #### What is all of this about?
-This celebration has the purpose of finding the best version of ElKowar's profile picture. 
+This is a kontest in order to find the best version of ElKo's pfp
 
 #### Who even is ElKowar?
 Hes a german guy at the Unixporn Community Discord Server
