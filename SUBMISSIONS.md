@@ -212,7 +212,7 @@
     <a>By: l1nus</a>
 </p>
 
-<h3 align="center">rElklasen</h3>
+<h3 align="center">Elklasen</h3>
 <p align="center">
     <img width="400" src="kontest/Elklasen.png">
     <br>
