@@ -212,6 +212,13 @@
     <a>By: l1nus</a>
 </p>
 
+<h3 align="center">Elklasen</h3>
+<p align="center">
+    <img width="400" src="kontest/Elklasen.png">
+    <br>
+    <a>By: snakedye</a>
+</p>
+
 <h3 align="center">uwuwar</h3>
 <p align="center">
     <img width="400" src="kontest/uwuwar.png">
