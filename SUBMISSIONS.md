@@ -273,4 +273,4 @@
     <img width="400" src="kontest/ElkoSweater.png">
     <br>
     <a>By: l1nus</a>
-<
+</p>
