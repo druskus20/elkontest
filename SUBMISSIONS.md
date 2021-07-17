@@ -274,3 +274,24 @@
     <br>
     <a>By: l1nus</a>
 </p>
+
+<h3 align="center">ElkSpair</h3>
+<p align="center">
+    <img width="400" src="kontest/elkspair.png">
+    <br>
+    <a>By: Elkowar</a>
+</p>
+
+<h3 align="center">AyyKowar</h3>
+<p align="center">
+    <img width="400" src="kontest/ayykowar.png">
+    <br>
+    <a>By: l1nus</a>
+</p>
+
+<h3 align="center">Elfowar</h3>
+<p align="center">
+    <img width="400" src="kontest/elfowar.png">
+    <br>
+    <a>By: gk</a>
+</p>
