@@ -24,7 +24,7 @@
 This is a kontest in order to find the best version of ElKo's pfp
 
 #### Who even is ElKowar?
-Hes a german guy at the Unixporn Community Discord Server
+He's a german guy at the Unixporn Community Discord Server
 
 [ElKowar](https://github.com/ElKowar "ElKowar")
 
