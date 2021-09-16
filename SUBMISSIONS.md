@@ -295,3 +295,24 @@
     <br>
     <a>By: gk</a>
 </p>
+
+<h3 align="center">GirlOWar</h3>
+<p align="center">
+    <img width="400" src="kontest/GirlOWar.png">
+    <br>
+    <a>By: snakedye</a>
+</p>
+
+<h3 align="center">elpogwar</h3>
+<p align="center">
+    <img width="400" src="kontest/elpogwar.png">
+    <br>
+    <a>By: snakedye</a>
+</p>
+
+<h3 align="center">FaceOWar</h3>
+<p align="center">
+    <img width="400" src="kontest/FaceOWar.png">
+    <br>
+    <a>By: elkowar</a>
+</p>
